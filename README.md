@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+## Capturas de la pagina
+![imagen](https://user-images.githubusercontent.com/90431013/200211256-9184ab68-1c5b-4361-8d9f-e7a771d7f228.png)
+![imagen](https://user-images.githubusercontent.com/90431013/200211273-b4b69b0f-5aae-4b09-992c-7802ebc92ad5.png)
+### Entrar al sistema
+![imagen](https://user-images.githubusercontent.com/90431013/200211351-5b1f818c-55fa-43cb-b17b-688c2ee76691.png)
